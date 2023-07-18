@@ -30,13 +30,31 @@
     .header-section{
         display: flex;
     }
-    .image-section{
-        display: flex;
-        position: relative;      
-        position: absolute;
+    .first-image{
+        width: 25%;
+        position: relative;
         top: 0;
         left: 0;
     }
-
+    .second-image{
+        width: 25%;
+        position: absolute;
+        top: 20px;
+        left: 40px;
+    }
+    .header-section{
+        display: flex;
+    }
 /*header section end*/
- 
+
+ /* logo section start */
+
+ .image-class{
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+   padding: 200px;
+   justify-content: space-between;
+
+ }
+ /* logo section end */
