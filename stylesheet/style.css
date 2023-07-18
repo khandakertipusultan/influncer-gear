@@ -58,3 +58,21 @@
 
  }
  /* logo section end */
+ /* popular section start */
+ .popular-section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:5px
+ }
+ /* popular section end */
+
+/*   featured products start */
+.featured-products-ab{
+    display: flex;
+}
+/* featured product end */
+/* footer section start */
+.footer{
+    background-color: black;
+}
+/* footer section end */
