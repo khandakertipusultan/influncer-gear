@@ -1,0 +1,16 @@
+.nav-menu{
+    list-style: none;
+    display: flex;
+    gap: 34px;
+    
+
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+   
+}
